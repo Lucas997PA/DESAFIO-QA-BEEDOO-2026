@@ -79,4 +79,4 @@ DESAFIO-QA-BEEDOO-2026
     Link: https://drive.google.com/drive/folders/1nWYId9Tgc_BwjbqnQmYwwiMBGmkBmyxn?usp=sharing
 
 5. Registro de bugs
-    Link: https://docs.google.com/document/d/12QNQCXHUGRFngeXVfiT1rkghVrGX7n5OoIL9nuuf3a0/edit?usp=sharing
+    Link: https://drive.google.com/drive/folders/1pZyvZ8CDnRxeT7FptIiWwevrexEMb_is?usp=drive_link
