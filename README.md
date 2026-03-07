@@ -76,7 +76,7 @@ DESAFIO-QA-BEEDOO-2026
     Link: https://docs.google.com/spreadsheets/d/1bKSplL-9Euoi39_j-yUSl_MeE3qdP_6GnmdntYZjDLU/edit?usp=sharing
 
 4. Execução dos testes
-    https://drive.google.com/drive/folders/1nWYId9Tgc_BwjbqnQmYwwiMBGmkBmyxn?usp=sharing
+    Link: https://drive.google.com/drive/folders/1nWYId9Tgc_BwjbqnQmYwwiMBGmkBmyxn?usp=sharing
 
 5. Registro de bugs
     Link: https://docs.google.com/document/d/12QNQCXHUGRFngeXVfiT1rkghVrGX7n5OoIL9nuuf3a0/edit?usp=sharing
