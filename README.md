@@ -72,7 +72,7 @@ DESAFIO-QA-BEEDOO-2026
            - imagem da capa esta aparecendo 
 
 
-3. Criação de cenários e casos de teste
+3. Criação de cenários e casos de teste /n
     Link: https://docs.google.com/spreadsheets/d/1bKSplL-9Euoi39_j-yUSl_MeE3qdP_6GnmdntYZjDLU/edit?usp=sharing
 
 4. Execução dos testes
